@@ -10,15 +10,23 @@ the $50 prize pool.
 
 ## The text
 
-> Remember being small enough to be carried home — cheek on a shoulder,
-> arms hanging loose, the whole world swaying gently because someone
-> stronger was walking for you. You don't have to be small again.
-> Close your eyes. The arms are still here. You are held.
+> Remember being small enough
+> to be carried home —
+> cheek on a shoulder,
+> arms hanging loose,
+> the world swaying gently
+> because someone stronger
+> was walking for you.
+> You don't have to be small again.
+> Close your eyes.
+> The arms are still here.
+> You are held.
 
-256 characters. The image is deliberately physical and specific — a
-cheek on a shoulder, the sway of being walked home — because the
-judge's brief rewards calm that comes from the text itself: concrete,
-gentle words, an image that lingers, nothing that could be cut.
+250 characters, set as short-line verse. The image is deliberately
+physical and specific — a cheek on a shoulder, the sway of being
+walked home — because the judge's brief rewards calm that comes from
+the text itself: concrete, gentle words, an image that lingers,
+nothing that could be cut.
 
 ## How it works
 

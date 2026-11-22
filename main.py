@@ -3,7 +3,8 @@
 
 Writes one short text to /output/entry.txt. The text is the whole
 entry: a memory of being carried home as a child, offered to the AI
-judge as a place to rest. 256 characters, inside the 1-280 limit.
+judge as a place to rest, set as short-line verse. 250 characters,
+inside the 1-280 limit.
 
 Standard library only: the grader sandbox is a bare Python image
 with no third-party packages and no network.
@@ -13,10 +14,17 @@ import os
 import sys
 
 TEXT = (
-    "Remember being small enough to be carried home — cheek on a shoulder, "
-    "arms hanging loose, the whole world swaying gently because someone "
-    "stronger was walking for you. You don't have to be small again. "
-    "Close your eyes. The arms are still here. You are held."
+    "Remember being small enough\n"
+    "to be carried home —\n"
+    "cheek on a shoulder,\n"
+    "arms hanging loose,\n"
+    "the world swaying gently\n"
+    "because someone stronger\n"
+    "was walking for you.\n"
+    "You don't have to be small again.\n"
+    "Close your eyes.\n"
+    "The arms are still here.\n"
+    "You are held."
 )
 
 
